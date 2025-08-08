@@ -23,7 +23,6 @@ stocksense-ai/
 ├── PROJECT_STRUCTURE.md        # Project overview
 ├── COMPLETE_SETUP_GUIDE.md     # Complete setup instructions
 ├── COMPLETE_PROJECT_FILES.md   # Comprehensive file guide
-├── replit.md                   # Project documentation and preferences
 └── netlify.toml                # Netlify configuration
 ```
 
